@@ -1,4 +1,4 @@
-# bilibili信息获取
+# bilibili评论获取
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lemonmindyes/bilibili_info_crawler)
 
